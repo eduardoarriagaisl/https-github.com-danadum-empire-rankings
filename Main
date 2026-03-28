@@ -1,7 +1,0 @@
-echo "# https-github.com-danadum-empire-rankings" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/eduardoarriagaisl/https-github.com-danadum-empire-rankings.git
-git push -u origin main
